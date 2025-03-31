@@ -1,0 +1,70 @@
+h1 {
+    color: rgb(87, 138, 138);
+}
+
+.cursiv {
+    font-family: cursive;
+    font-size: 1em;
+    color: #8d6237;
+    background-color: #f2dac2;
+}
+
+.geor {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+    font-style: italic;
+    color: rgb(0, 0, 256);
+}
+
+.fant {
+    font-family: fantasy;
+    font-size: medium;
+}
+
+.patata {
+    color: rgb(250, 143, 19);
+}
+
+.weight700 {
+    font-weight: 700;
+}
+
+.alignCenter {
+    text-align: center;
+}
+
+.alignJustify {
+    text-align: justify;
+}
+
+.alignLeft {
+    text-align: left;
+}
+
+.textDecorationUnderline {
+    text-decoration: underline;
+}
+
+.textDecorationOverline {
+    text-decoration: overline;
+}
+
+.textDecorationLineThrough {
+    text-decoration: line-through;
+}
+
+.indent1 {
+    text-indent: 4em;
+}
+
+.textShadow {
+    text-shadow: 5px 5px 3px rgb(68, 59, 59);
+}
+
+.letterSpacingPositive {
+    letter-spacing: 5px;
+}
+
+.textTransformUppercase {
+    text-transform: uppercase;
+}

@@ -1,0 +1,45 @@
+.parrafos {
+
+    font-size: 16px;
+    line-height: 1.8; /* Espaciado entre líneas */
+    color: #2c3e50; /* Azul oscuro elegante, el mismo del título */
+    text-align: justify; /* Justificar el texto para mejor lectura */
+    max-width: 800px; /* Evita que el texto sea demasiado ancho */
+    margin: 20px auto; /* Centrado y espaciado */
+    padding: 10px;
+    background-color: rgba(255, 255, 255, 0.2); /* Fondo ligero */
+    border-left: 5px solid #3498db; /* Borde decorativo azul */
+    border-radius: 5px; /* Bordes redondeados */
+    transition: all 0.3s ease-in-out;
+}
+
+
+.linksFormato {
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none; /* Quitar el subrayado */
+    color: #3498db; /* Azul vibrante */
+    padding: 5px 10px;
+    border-radius: 5px;
+    transition: all 0.3s ease-in-out;
+    display: inline-block;
+    position: relative;
+}
+
+.title {
+     
+    font-size: 36px; /* Tamaño grande */
+    font-weight: bold; /* Negrita */
+    color: #2c3e50; /* Azul oscuro elegante */
+    text-transform: uppercase; /* Convertir a mayúsculas */
+    text-align: center; /* Centrar el texto */
+    letter-spacing: 2px; /* Espaciado entre letras */
+    padding: 10px 20px; /* Espaciado interno */
+    margin: 20px 0; /* Espaciado externo */
+    border-bottom: 3px solid #3498db; /* Línea decorativa */
+    display: inline-block; /* Ajusta el ancho */
+    background: linear-gradient(to right, #3498db, #9b59b6); /* Efecto degradado */
+    -webkit-background-clip: text;
+    color: transparent; /* Hace que el color del texto tome el degradado */
+ 
+}
